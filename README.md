@@ -155,11 +155,3 @@ Open:
 * Automated case management system
 
 ---
-
-# Author
-
-**Kirti Sinha**
-
-Data AI Professional
-
-Passionate about building AI systems that solve real business problems in finance and banking.
