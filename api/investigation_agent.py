@@ -7,7 +7,7 @@ import os
 load_dotenv()
 
 client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
-model = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+model = os.getenv("GEMINI_MODEL", "gemini-3.5-flash")
 
 def investigate_transaction(explanations):
 
